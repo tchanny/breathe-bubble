@@ -1,16 +1,7 @@
-# Let it Snow with Lottie
+# breathe 
 
-![Let it Snow!](/demo.gif)
+![breathe](/demo.gif)
 
 ## About
 
-This app shows how to add the magic of christmas to your app:
-1. Using Swift Packages Manager
-2. Creating an independent SnowView class that can be used anywhere in your app.
-
-## Requirements
-
-- iOS 13+
-- Swift 5.1
-
-Happy coding! 😀
+this app is easy, but i love this animation a lot.
